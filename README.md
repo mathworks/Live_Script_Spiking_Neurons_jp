@@ -1,5 +1,8 @@
 # Live_Script_Spiking_Neurons_jp
-This repository contains a Japanese version of a published repository "Live_Script_Spiking_Neurons" by Shubo Chakrabarti https://github.com/mathworks/Live_Script_Spiking_Neurons
+This repository contains a Japanese version of a published repository "Live_Script_Spiking_Neurons" by Shubo Chakrabarti   https://github.com/mathworks/Live_Script_Spiking_Neurons
+
+# Livescriptの中身はこちら  
+https://github.com/mathworks/Live_Script_Spiking_Neurons_jp/blob/main/LiveScript_Izhikevich_jp.md
 
 # イズィケヴィッチモデルのライブスクリプト
 Izhikevich Live Script
